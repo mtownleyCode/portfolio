@@ -12,6 +12,8 @@ permalink: /rogue-kronies/
 
 Rogue Kronies is a small e-commerce business selling custom-art merchandise. I designed and built the business's e-commerce platform from the ground up, and have recently extended it using AI-assisted development. Made-to-order tumblers are live in production today; sized apparel (starting with t-shirts) is fully built and tested, pending the business's physical inventory arriving.
 
+**Live site:** [roguekronies.com](https://roguekronies.com)
+
 ## The Challenge
 
 The business needed a real e-commerce platform: a public storefront, secure payment processing, and (as the product line grew beyond tumblers into sized apparel) a proper product and inventory system — without managing servers directly.
